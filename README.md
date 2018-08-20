@@ -261,7 +261,7 @@ Based on our experience and strengths, here are the three ways we can help you:
 - Help you create an important Mission and Vision that attracts world-class employees and customers.
 - Help you create a Value Hypothesis (a combination of target market, problem, distribution channels, customer relationships, revenue model, key activities, resources, partners, and cost structure) that results in Product/Market Fit.
 - Help you measure Product/Market Fit and know when you’ve truly found it.
-- Share mental models for deciding what's most important to next and why.
+- Share mental models for deciding what's most important to work on next and why.
 
 ### 2. Help you build and scale both your Product and your Team.
 
